@@ -1,0 +1,10 @@
+Colinhas
+
+Para usar margem ou padding no Bootstrap, é possível:
+Usar r para usar margin-right ou padding-right
+Usar x para usar margem ou padding na esquerda e direita
+Usar y para usar margem ou padding na parte superior e inferior
+Deixar o campo em branco para usar margem ou padding em todos os quatro lados do elemento
+
+repositório PHPMailer utilizado :https://github.com/Synchro/PHPMailer
+repositório Bootstrap utilizado :https://github.com/twbs/bootstrap/blob/main/LICENSE
